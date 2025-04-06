@@ -5,8 +5,8 @@ Hi, I'm Megan! I'm an informatics student and data analyst with an interest in c
 
 
 - 🌱 I’m currently exploring **Java**, **C** and **Data Visualization**.
-- 🤝 I’m looking to collaborate on **open-source projects** and **innovative web applications**.
-- ⚡ Fun fact: I am an avid yogi and certified yoga teacher! 🧘🏻‍♀️ 
+- 🤝 I’m looking to collaborate on **open-source projects** and **innovative web applications** related to privacy and security.
+- ⚡ Fun fact: I am an avid yogi and certified yoga teacher 🧘🏻‍♀️ 
 
 
 
