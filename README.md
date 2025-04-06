@@ -1,17 +1,21 @@
 
 ## About Me 😄
 
-Hi, I'm Megan! I'm a passionate informatics student with an interest in creating efficient, scalable solutions. My journey in tech spans applicaton development and data analysis. I'm always excited to learn new technologies and collaborate on exciting projects.
+Hi, I'm Megan! I'm an informatics student and data analyst with an interest in creating efficient, scalable solutions. My journey in tech spans applicaton development and data analysis. I'm always excited to learn new technologies and collaborate on exciting projects.
 
 
-- 🌱 I’m currently exploring **Java** and **Data Visualization**.
+- 🌱 I’m currently exploring **Java**, **C** and **Data Visualization**.
 - 🤝 I’m looking to collaborate on **open-source projects** and **innovative web applications**.
+- ⚡ Fun fact: I am an avid yogi and certified yoga teacher! 🧘🏻‍♀️ 
+
 
 
 
 ## 📫 Connect with Me
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/megan-a-5328b027a/).
+
+
 
 ## 🛠️ Tools I Use
 
