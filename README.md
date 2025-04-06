@@ -1,7 +1,7 @@
 
 ## About Me 😄
 
-Hi, I'm Megan! I'm a passionate informatics student with an interest in creating efficient, scalable solutions. My journey in tech spans applicaton development, automation, and data analysis. I'm always excited to learn new technologies and collaborate on exciting projects.
+Hi, I'm Megan! I'm a passionate informatics student with an interest in creating efficient, scalable solutions. My journey in tech spans applicaton development and data analysis. I'm always excited to learn new technologies and collaborate on exciting projects.
 
 
 - 🌱 I’m currently exploring **Java** and **Data Visualization**.
